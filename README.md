@@ -18,4 +18,4 @@ This variable analog bench power supply is designed whilst taking into considera
 - Fast charge USB output with voltage and current monitoring outputs
 - An Entirely non-switching linear topology
 - Current, voltage, I_SET and OVP_SET should be displayable via two 3rd party voltmeter modules
-- For monitoring we are gonna use 3rd-party off-the-shelf voltmeter modules which can be priced as low as 0.90$ each
+- For visual output we are gonna use 3rd-party off-the-shelf voltmeter modules which can be priced as low as 0.90$ each
