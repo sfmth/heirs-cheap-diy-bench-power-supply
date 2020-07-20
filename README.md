@@ -13,4 +13,8 @@ Key features of this power supply are as follows:
 
 
 This variable analog bench power supply is designed whilst taking into consideration the following requirements:
-- A low
+- A relatively low power step-down DC-DC converter
+- No digital control component
+- Fast charge USB output with voltage and current monitoring outputs
+- An Entirely non-switching linear topology
+- Current, voltage, I_SET, V_
