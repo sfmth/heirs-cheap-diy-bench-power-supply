@@ -19,3 +19,14 @@ This variable analog bench power supply is designed whilst taking into considera
 - An Entirely non-switching linear topology
 - Current, voltage, I_SET and OVP_SET should be displayable via two 3rd party voltmeter modules
 - For visual output we are gonna use 3rd-party off-the-shelf voltmeter modules which can be priced as low as 0.90$ each
+- Minimal over-shoot at power on/off
+- Various protection mechanisms such as adjustable over-voltage(OVP), over-current(OCP), over-temperature(OTP), short-circuit(SCP), reverse voltage protection
+- Remote voltage sensing (Kelvin wiring)
+- Fan-less design relying on passive cooling
+- Use of cost-oriented and widely available components
+- Only a single variable output channel
+- Modular design as the user can use battery/ac-dc converter for the power source
+- 
+
+
+
