@@ -25,7 +25,7 @@ This variable analog bench power supply is designed whilst taking into considera
 - Fan-less design relying on passive cooling
 - Use of cost-oriented and widely available components
 - Only a single variable output channel
-- Modular design as the user can use battery/ac-dc converter for the power source
+- Modular design as the user can use any battery/ac-dc converter as the power source
 - 
 
 
