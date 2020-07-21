@@ -28,5 +28,5 @@ This variable analog bench power supply is designed whilst taking into considera
 - Modular design as the user can use any battery/ac-dc converter as the power source
 - 
 
-
+Wattmeter display
 
