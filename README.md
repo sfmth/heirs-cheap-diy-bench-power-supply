@@ -31,3 +31,4 @@ This variable analog bench power supply is designed whilst taking into considera
 Wattmeter display
 - OVP, CC, CV.  front panel LED
 - front panel output on/off button
+Add OCP
