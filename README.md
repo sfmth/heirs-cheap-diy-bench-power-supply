@@ -31,7 +31,11 @@ This variable analog bench power supply is designed whilst taking into considera
 Wattmeter display
 - OVP, CC, CV.  front panel LED
 - front panel output on/off button
+
 Add OCP
 
 Use eeprom and adc for seven segment monitors
+
+Goddammit adding stm8s003f3 cheapest microcontroller with an adc
+ 
 
