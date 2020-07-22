@@ -36,6 +36,6 @@ Add OCP
 
 Use eeprom and adc for seven segment monitors
 
-Goddammit adding stm8s003f3 cheapest microcontroller with an adc
+Goddammit adding stm8s003f3 cheapest microcontroller with an adc for front panel control
  
 
