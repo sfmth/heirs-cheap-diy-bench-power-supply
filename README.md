@@ -32,3 +32,6 @@ Wattmeter display
 - OVP, CC, CV.  front panel LED
 - front panel output on/off button
 Add OCP
+
+Use eeprom and adc for seven segment monitors
+
