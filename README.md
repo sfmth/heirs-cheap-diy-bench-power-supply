@@ -39,5 +39,9 @@ Use eeprom and adc for seven segment monitors
 Goddammit adding stm8s003f3 cheapest microcontroller with an adc for front panel control
 
 Now i have to reconsider a lot of things
+
+Use pwm to drive output voltage through the opamp
+
+Using pwm and adc at the same time might cause inaccuracies it should be tested for the specified microcontroller
  
 
