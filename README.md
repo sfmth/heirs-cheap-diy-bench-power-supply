@@ -44,4 +44,34 @@ Use pwm to drive output voltage through the opamp
 
 Using pwm and adc at the same time might cause inaccuracies it should be tested for the specified microcontroller
  
-
+ transformer tap for 220/110 compatibility
+ 
+  beep on/off button
+  
+   standard distance between output terminals
+   
+   ovp ocp enable/disable button
+   
+   crow bar output protection
+   
+   soft and hard on/off switches
+   
+   ac input goes directly to the front panel
+   
+   different voltage taps of the transformer with relay or triac control for performance
+   
+   surviving fast shorts on the output
+   
+   gate being shorted to drain 
+   
+   thermally isolating the voltage reference on the pcb
+   
+   seethrough plexiglass front panel with laser print and cut
+   
+   پلکسی گلس خیابان پامنار
+   
+   mirror plexiglass reverse engraving
+   
+   main bjt transistors for durability
+   
+   electrophoresis compatible
