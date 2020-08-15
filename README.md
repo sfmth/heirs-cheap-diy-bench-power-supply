@@ -75,3 +75,9 @@ Using pwm and adc at the same time might cause inaccuracies it should be tested 
    main bjt transistors for durability
    
    electrophoresis compatible
+   
+   seperate digital and analog parts on the pcb
+
+   seven segment display on the pcb
+
+   optional switching pre regulator board for performance improvement
