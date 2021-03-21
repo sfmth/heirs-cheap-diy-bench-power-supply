@@ -1,4 +1,4 @@
-Circuit: * C:\users\farhad\My Documents\github\heirs-cheap-diy-bench-power-supply\Experiments\Tap switching topology\Draft1.asc
+Circuit: * Z:\home\farhad\github\heirs-cheap-diy-bench-power-supply\Experiments\Tap switching topology\Draft1.asc
 
 D1: both pins shorted together -- ignoring.
 Error on line 12 : v8 nc_01 0 v
@@ -9,38 +9,50 @@ Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
 vernier = 0.5
+Gmin = 2.5711e-006
 vernier = 0.25
 vernier = 0.125
-Gmin = 4.55111
 vernier = 0.0625
 vernier = 0.03125
+Gmin = 2.15099e-006
 vernier = 0.015625
 vernier = 0.0078125
-Gmin = 4.47236
 vernier = 0.00390625
 vernier = 0.00195313
 vernier = 0.000976563
 vernier = 0.000488281
 Gmin = 0
-Gmin = 0
-Gmin stepping succeeded in finding the operating point.
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
 
 
-Date: Tue Sep 01 12:37:46 2020
-Total elapsed time: 0.322 seconds.
+Date: Sun Oct 25 16:54:07 2020
+Total elapsed time: 0.569 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 3519
-traniter = 2058
+totiter = 3980
+traniter = 2062
 tranpoints = 1030
 accept = 1030
 rejected = 0
-matrix size = 41
-fillins = 114
+matrix size = 60
+fillins = 231
 solver = Normal
-Matrix Compiler1: 10.12 KB object code size  1.9/1.2/[0.6]
-Matrix Compiler2: 5.32 KB object code size  0.6/0.7/[0.4]
+Matrix Compiler1: 20.68 KB object code size  3.8/2.2/[1.1]
+Matrix Compiler2: 8.90 KB object code size  0.7/1.1/[0.7]
 

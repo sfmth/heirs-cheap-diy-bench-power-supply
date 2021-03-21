@@ -81,3 +81,15 @@ Using pwm and adc at the same time might cause inaccuracies it should be tested 
    seven segment display on the pcb
 
    optional switching pre regulator board for performance improvement
+   
+   analog programming of the power supply
+
+   biocompatible with low leakage
+
+   fast surge current protection for the load
+
+   timer!
+
+   kV surges from the output protection
+
+  banana to usb converter 

@@ -1,4 +1,4 @@
-update=‫یکشنبه ۲۳ آقۇست ۲۰، ۱۷:۱۱:۰۰‬
+update=Sun 03 Jan 2021 07:33:31 PM +0330
 version=1
 last_client=kicad
 [general]
